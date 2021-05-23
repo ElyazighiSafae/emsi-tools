@@ -1,1 +1,1 @@
-this file is not empty
+This file is mandatory in all Holberton School projects
